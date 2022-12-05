@@ -1,6 +1,11 @@
 # Project instruction - compassion fatigue
 
 
+Name: Jinglin Zhang 
+Git: https://github.com/Katrina12345678/Project-1_Jinglin-Zhang 
+Youtube: https://www.youtube.com/watch?v=XojRLzIl-eU 
+Mimic: https://mimicproject.com/code/1d90c03f-8b17-d4b6-af33-4c1c949cf8d2
+
 My friend, who is a nurse, says she goes to work every day and sees her patients suffering and she feels helpless and miserable too. Over time, she became increasingly grumpy, felt anxious at times and was often an insomniac. I began to think about the lives of those who are busy helping others all day long, social workers who rehome the homeless, doctors and nurses who save lives minute by minute, veterinarians and pet rescuers who witness abuse every day, how do they ease their emotions when they are in a deadly cycle of endlessly witnessing pain every day? How do you stay in a good frame of mind while working?
 
 This excessive stress can quite naturally take its toll on the people coping with this suffering. They will gradually develop compassion fatigue as they witness the pain daily.
